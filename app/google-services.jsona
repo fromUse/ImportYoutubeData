@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298180841000",
+    "project_id": "oauthdemo-bff96"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298180841000:android:b7be3adac36fdca4",
+        "android_client_info": {
+          "package_name": "com.example.chenq.oauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298180841000-3avlf3vlk6a15kv11h8n7uom6nnkv9e1.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "298180841000-heskfbha623p3g8doepc38s63nkv01e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chenq.oauthdemo",
+            "certificate_hash": "8138236cec95cc7c7e33eed0e53a3b8f5e157ab1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KFH8gn3FIP3Ie_lP5SohVr7nN9mFcys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
